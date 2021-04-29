@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/Dictionary.cpp" "/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/cmake-build-debug/CMakeFiles/MiniProject_1400_02_10.dir/Dictionary.cpp.o"
   "/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/main.cpp" "/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/cmake-build-debug/CMakeFiles/MiniProject_1400_02_10.dir/main.cpp.o"
+  "/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/testfile.cpp" "/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/cmake-build-debug/CMakeFiles/MiniProject_1400_02_10.dir/testfile.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

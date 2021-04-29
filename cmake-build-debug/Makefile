@@ -197,6 +197,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MiniProject_1400_02_10.dir/build.make CMakeFiles/MiniProject_1400_02_10.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+testfile.o: testfile.cpp.o
+
+.PHONY : testfile.o
+
+# target to build an object file
+testfile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MiniProject_1400_02_10.dir/build.make CMakeFiles/MiniProject_1400_02_10.dir/testfile.cpp.o
+.PHONY : testfile.cpp.o
+
+testfile.i: testfile.cpp.i
+
+.PHONY : testfile.i
+
+# target to preprocess a source file
+testfile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MiniProject_1400_02_10.dir/build.make CMakeFiles/MiniProject_1400_02_10.dir/testfile.cpp.i
+.PHONY : testfile.cpp.i
+
+testfile.s: testfile.cpp.s
+
+.PHONY : testfile.s
+
+# target to generate assembly for a file
+testfile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MiniProject_1400_02_10.dir/build.make CMakeFiles/MiniProject_1400_02_10.dir/testfile.cpp.s
+.PHONY : testfile.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -212,6 +239,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... testfile.o"
+	@echo "... testfile.i"
+	@echo "... testfile.s"
 .PHONY : help
 
 

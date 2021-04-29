@@ -91,6 +91,9 @@
 		<Unit filename="/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/main.cpp">
 			<Option target="MiniProject_1400_02_10"/>
 		</Unit>
+		<Unit filename="/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/testfile.cpp">
+			<Option target="MiniProject_1400_02_10"/>
+		</Unit>
 		<Unit filename="/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

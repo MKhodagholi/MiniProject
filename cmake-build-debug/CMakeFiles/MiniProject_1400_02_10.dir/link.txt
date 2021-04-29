@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/MiniProject_1400_02_10.dir/main.cpp.o CMakeFiles/MiniProject_1400_02_10.dir/Dictionary.cpp.o  -o MiniProject_1400_02_10 
+/usr/bin/c++  -g   CMakeFiles/MiniProject_1400_02_10.dir/main.cpp.o CMakeFiles/MiniProject_1400_02_10.dir/Dictionary.cpp.o CMakeFiles/MiniProject_1400_02_10.dir/testfile.cpp.o  -o MiniProject_1400_02_10 
