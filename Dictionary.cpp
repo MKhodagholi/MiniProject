@@ -5,11 +5,12 @@
 using namespace std;
 
 struct Node{
-    string str_input;
+    string wordWithSynonym;
     Node *nex;
+    Node *syno;
 };
 
-void Dictionary::addWordWithSynonyms() {
-    string wordWithSynonyms;
-    getline(cin, wordWithSynonyms);
+void addWordWithSynonyms(string wordWithSynonyms, Node *Head) {
+    Node *temp = new Node;
+    temp = Head;
 }

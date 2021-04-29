@@ -2,17 +2,20 @@
 #define MINIPROJECT_1400_02_10_DICTIONARY_H
 
 
-class Dictionary {
-private:
-    struct Node;
-public:
-    static void addWordWithSynonyms();
-    void removeWordWithSynonyms();
-    void removeSynonymsOfWord();
-    void searchWordWithSynonyms();
-    void showWordWithSynonyms();
-    void changeDictationOfWords();
-};
+
+struct Node;
+void addWordWithSynonyms();
+
+void removeWordWithSynonyms();
+
+void removeSynonymsOfWord();
+
+void searchWordWithSynonyms();
+
+void showWordWithSynonyms();
+
+void changeDictationOfWords();
+
 
 
 #endif //MINIPROJECT_1400_02_10_DICTIONARY_H
