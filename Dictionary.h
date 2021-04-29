@@ -3,7 +3,7 @@
 
 
 
-struct Node;
+struct words;
 void addWordWithSynonyms();
 
 void removeWordWithSynonyms();

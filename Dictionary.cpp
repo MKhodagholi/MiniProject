@@ -4,13 +4,19 @@
 
 using namespace std;
 
-struct Node{
+struct words{
     string wordWithSynonym;
-    Node *nex;
-    Node *syno;
+    words *nex;
+    words *syno;
 };
 
-void addWordWithSynonyms(string wordWithSynonyms, Node *Head) {
-    Node *temp = new Node;
+words* creatWord(string name){
+    words* temp = new words{std::move(name), nullptr, nullptr};
+    return temp;
+}
+
+
+void addWordWithSynonyms(string wordWithSynonyms, words *Head) {
+    words *temp = new words;
     temp = Head;
 }
