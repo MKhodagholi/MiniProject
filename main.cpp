@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    words *temp = creatWord("book");
-
+    Words *temp = creatWord("book");
+    showMenu();
 }

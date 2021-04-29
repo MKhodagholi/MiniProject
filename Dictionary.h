@@ -7,13 +7,15 @@ using namespace std;
 
 struct Words{
     string wordWithSynonym;
-    words *nex;
-    words *syno;
+    Words *nex;
+    Words *syno;
 };
+
+void showMenu();
 
 void addWordWithSynonyms();
 
-words* creatWord(string name);
+Words* creatWord(string name);
 
 void removeWordWithSynonyms();
 
