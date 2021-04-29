@@ -13,9 +13,11 @@ struct Words{
 
 void showMenu();
 
-void addWordWithSynonyms();
+void addWordWithSynonyms(Words *Head);
 
 Words* creatWord(string name);
+
+void stringToArray(string str, string ans[], int size);
 
 void removeWordWithSynonyms();
 
