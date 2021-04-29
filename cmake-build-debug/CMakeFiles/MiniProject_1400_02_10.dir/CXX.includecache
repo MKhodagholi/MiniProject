@@ -6,9 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/testfile.cpp
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/Dictionary.cpp
+Dictionary.h
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/Dictionary.h
 string
 -
 iostream
 -
+
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/Dictionary.h
+iostream
+-
+
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/main.cpp
+iostream
+-
+Dictionary.h
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/Dictionary.h
 
