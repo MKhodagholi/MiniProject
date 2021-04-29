@@ -1,0 +1,3 @@
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mohammad/Desktup/Programming/Project/MiniProject.1400,02,10/cmake-build-debug/CMakeFiles/MiniProject_1400_02_10.dir
