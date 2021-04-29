@@ -3,7 +3,15 @@
 
 
 class Dictionary {
-
+private:
+    struct Node;
+public:
+    static void addWordWithSynonyms();
+    void removeWordWithSynonyms();
+    void removeSynonymsOfWord();
+    void searchWordWithSynonyms();
+    void showWordWithSynonyms();
+    void changeDictationOfWords();
 };
 
 
